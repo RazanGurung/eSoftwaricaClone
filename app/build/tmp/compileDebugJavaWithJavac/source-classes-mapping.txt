@@ -1,0 +1,2 @@
+com/example/esoftwaricaclone/BuildConfig.java
+ com.example.esoftwaricaclone.BuildConfig
